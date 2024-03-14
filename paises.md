@@ -1,2 +1,5 @@
 Uruguay
 Argentina
+Perú
+Africa
+
